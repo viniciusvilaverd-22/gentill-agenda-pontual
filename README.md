@@ -1,5 +1,7 @@
 # Agenda Pontual
 
+![Apresentação de Agenda Pontual](assets/banner.png)
+
 **Agenda de atendimentos para profissionais autônomos.**
 
 Agenda Pontual é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Agenda Pontual é uma solução Gentill em desenvolvimento, com interface em **p
 - Cadastre clientes e serviços
 - Visualize compromissos
 - Evite conflitos de horários
+
+## Identidade visual
+
+![Ícone de Agenda Pontual](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
